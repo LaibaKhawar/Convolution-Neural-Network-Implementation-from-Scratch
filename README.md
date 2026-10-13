@@ -2,7 +2,7 @@
 
 A manual NumPy implementation of 2D convolution and cross-correlation on grayscale images, with stride and padding options, applied to edge detection, blurring and sharpening kernels and compared visually with SciPy.
 
-**Interactive demo:** [Run it in your browser](https://laiba-khawar-portfolio.vercel.app/work/convolution#demo)
+**Interactive demo:** [Run it in your browser](https://www.laibakhawar.com/work/convolution#demo)
 
 Despite the repository name, this project implements the convolution operation that CNN layers are built on. It does not build or train a convolutional neural network.
 
@@ -71,4 +71,4 @@ Every cell loads `GreyscaleImg.jpeg` from the working directory. That image is n
 
 ## Author
 
-[Laiba Khawar](https://github.com/LaibaKhawar) · [LinkedIn](https://www.linkedin.com/in/laiba-k-00b2b1249/)
+[Laiba Khawar](https://github.com/LaibaKhawar) · [LinkedIn](https://www.linkedin.com/in/laibakhawar/)
